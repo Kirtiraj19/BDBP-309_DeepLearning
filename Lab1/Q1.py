@@ -1,3 +1,4 @@
+
 import numpy as np
 import matplotlib.pyplot as plt
 # Generate 100 equally spaced values between -10 and 10
